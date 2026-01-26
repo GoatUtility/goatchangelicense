@@ -1,0 +1,9 @@
+{
+  "serverUrl": "https://81f994ad3f8d.ngrok-free.app",
+  "version": "1.0.0",
+  "updateMessage": "Please update to the latest version",
+  "features": {
+    "autoUpdate": true,
+    "offlineMode": true
+  }
+}
