@@ -1,5 +1,5 @@
 {
-  "serverUrl": "https://26d7b4c76f7e.ngrok-free.app",
+  "serverUrl": "https://30ed693e3c53.ngrok-free.app",
   "version": "1.0.0",
   "updateMessage": "Please update to the latest version",
   "features": {
@@ -7,4 +7,5 @@
     "offlineMode": true
   }
 }
+
 
