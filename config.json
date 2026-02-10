@@ -1,5 +1,5 @@
 {
-  "serverUrl": "https://5c09-31-215-130-10.ngrok-free.app",
+  "serverUrl": "https://unrevivable-lucio-cupped.ngrok-free.dev",
   "version": "1.0.0",
   "updateMessage": "Please update to the latest version",
   "features": {
@@ -7,6 +7,7 @@
     "offlineMode": true
   }
 }
+
 
 
 
